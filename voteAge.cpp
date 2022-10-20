@@ -21,5 +21,6 @@ int main() {
     } else {
         std::cout << "You are not eligible." << std::endl;
     }
+
     std::cout << "\nDone.";
 }
